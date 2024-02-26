@@ -4,10 +4,8 @@ one:
   title: MyString
   description: MyText
   completed: false
-  rails: MyString
 
 two:
   title: MyString
   description: MyText
   completed: false
-  rails: MyString
